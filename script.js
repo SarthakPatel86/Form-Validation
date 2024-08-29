@@ -15,6 +15,7 @@ themebtn.addEventListener("click", () => {
       input.style.backgroundColor = "white";
       input.style.border = "2px solid black";
       input.style.boxShadow = "0px 0px 20px black";
+      input.style.color = "black";
     });
 
     button[0].style.backgroundColor = "white";
@@ -36,6 +37,7 @@ themebtn.addEventListener("click", () => {
       input.style.backgroundColor = "black";
       input.style.border = "2px solid white";
       input.style.boxShadow = "0px 0px 20px white";
+      input.style.color = "white";
     });
 
     button[0].style.backgroundColor = "black";
